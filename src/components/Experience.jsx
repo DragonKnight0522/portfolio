@@ -102,7 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() => {
                 window.open(
-                  "https://app.enhancv.com/share/75d04fa0/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic", //paste the link to your resume here
+                  "https://drive.google.com/file/d/1GJrwR_x_eWY3WCD6G5PNsVbQ9q2o6s2E/view", //paste the link to your resume here
                   '_blank'
                 )
               }}
