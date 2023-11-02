@@ -148,7 +148,7 @@ const experiences = [
 		date: "06 / 2021 - 05 / 2023",
 	},
 	{
-		title: "Senior Backend Developer",
+		title: "Full Stack Developer",
 		company_name: "BeeTech",
 		icon: microverse,
 		iconBg: "#333333",
