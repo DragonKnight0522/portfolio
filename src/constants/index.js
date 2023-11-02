@@ -155,19 +155,12 @@ const experiences = [
 		date: "11 / 2019 - 05 / 2021",
 	},
 	{
-		title: "Senior Frontend Developer",
-		company_name: "Bloxico",
+		title: "Frontend Developer",
+		company_name: "SmartLinks",
 		icon: kelhel,
 		iconBg: "#333333",
 		date: "05 / 2017 - 10 / 2019",
-	},
-	{
-		title: "Java Developer",
-		company_name: "DunavNET",
-		icon: dcc,
-		iconBg: "#333333",
-		date: "05 / 2015 - 04 / 2017",
-	},
+	}
 ];
 
 const projects = [
