@@ -101,10 +101,10 @@ const Experience = () => {
               hover:text-eerieBlack transition duration-[0.2s] 
               ease-in-out"
               onClick={() => {
-                window.open(
-                  "https://drive.google.com/file/d/1GJrwR_x_eWY3WCD6G5PNsVbQ9q2o6s2E/view", //paste the link to your resume here
-                  '_blank'
-                )
+                // window.open(
+                //   "https://drive.google.com/file/d/1GJrwR_x_eWY3WCD6G5PNsVbQ9q2o6s2E/view", //paste the link to your resume here
+                //   '_blank'
+                // )
               }}
               onMouseOver={() => {
                 document
