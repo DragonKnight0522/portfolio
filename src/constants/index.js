@@ -25,6 +25,8 @@ import {
 	graphql,
 	komikult,
 	leaderboard,
+	zappt,
+	ml_cars,
 	math,
 	movie,
 	nyeusi,
@@ -142,25 +144,32 @@ const technologies = [
 const experiences = [
 	{
 		title: "Full-Stack Developer",
-		company_name: "Stratum Growth",
+		company_name: "Self Employed",
 		icon: coverhunt,
 		iconBg: "#333333",
-		date: "06 / 2021 - 05 / 2023",
+		date: "09 / 2021 - current",
 	},
 	{
-		title: "Full Stack Developer",
-		company_name: "BeeTech",
+		title: "Full-Stack Developer",
+		company_name: "Inf Tech Total Services Co",
 		icon: microverse,
 		iconBg: "#333333",
-		date: "11 / 2019 - 05 / 2021",
+		date: "08 / 2019 - 08 / 2021",
 	},
 	{
-		title: "Frontend Developer",
-		company_name: "SmartLinks",
+		title: "Backend Developer",
+		company_name: "Acer Synergy Tech Corp",
 		icon: kelhel,
 		iconBg: "#333333",
-		date: "05 / 2017 - 10 / 2019",
-	}
+		date: "10 / 2018 - 07 / 2019",
+	},
+	{
+		title: "Java Developer",
+		company_name: "Acer Synergy Tech Corp",
+		icon: kelhel,
+		iconBg: "#333333",
+		date: "07 / 2015 - 09 / 2018",
+	},
 ];
 
 const projects = [
@@ -183,6 +192,26 @@ const projects = [
 		image: leaderboard,
 		repo: "https://github.com/DragonKnight0522/financegpt",
 		demo: "https://app.qashboard.com/",
+	},
+	{
+		id: "Zappt",
+		name: "Zappt",
+		description:
+			"Spend Less Time Looking and More Time Doing",
+		tags: [],
+		image: zappt,
+		repo: "https://github.com/godit-ai",
+		demo: "https://zappt.app",
+	},
+	{
+		id: "ml-cars",
+		name: "ml-cars",
+		description:
+			"Learn machine learning fundamentals",
+		tags: [],
+		image: ml_cars,
+		repo: "https://github.com/DragonKnight0522/ml-cars",
+		demo: "https://ml-cars.vercel.app/",
 	},
 	// {
 	// 	id: "project-3",

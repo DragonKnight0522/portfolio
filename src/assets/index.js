@@ -52,6 +52,8 @@ import math from "./projects/math-magicians.png";
 import movie from "./projects/movie-metro.png";
 import nyeusi from "./projects/nyeusi.png";
 import space from "./projects/space-hub.png";
+import zappt from "./projects/zappt.png";
+import ml_cars from "./projects/ml-cars.png";
 
 export {
 	bwmap,
@@ -91,6 +93,8 @@ export {
 	typescript,
 	komikult,
 	leaderboard,
+	zappt,
+	ml_cars,
 	math,
 	movie,
 	nyeusi,
