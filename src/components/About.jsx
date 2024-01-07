@@ -1,4 +1,4 @@
-import React from 'react';
+herimport React from 'react';
 import { motion } from 'framer-motion';
 import { styles } from '../styles';
 import { services } from '../constants';
@@ -35,7 +35,7 @@ const About = () => {
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         I am an accomplished <span className='text-yellow-600'>Full Stack Developer</span>, bringing along <span className='text-red-700'>more than a decade</span> of experience in comprehensive web application development using various frameworks.
 
-        My computer science degree laid the foundation for my successful career journey, extending from Taiwan, Serbia to Albania and now the United States.
+        My computer science degree laid the foundation for my successful career journey, extending from Taiwan, Netherlands and now the United States.
 
         From working with technical teams and business partners at Stratum Growth to optimizing system performance at Brooklyn, my contributions have always driven significant improvements.
 
