@@ -164,7 +164,7 @@ const experiences = [
 		date: "10 / 2018 - 07 / 2019",
 	},
 	{
-		title: "Java Developer",
+		title: "Software Developer",
 		company_name: "Acer Synergy Tech Corp",
 		icon: kelhel,
 		iconBg: "#333333",
