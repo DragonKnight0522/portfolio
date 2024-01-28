@@ -33,7 +33,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am an accomplished <span className='text-yellow-600'>Engineer</span>, bringing along <span className='text-red-700'> a decade</span> of experience in comprehensive web application development using various frameworks.
+        I am an accomplished <span className='text-yellow-600'>Software Engineer</span>, bringing along <span className='text-red-700'> a decade</span> of experience in comprehensive web application development using various frameworks.
 
         My computer science degree laid the foundation for my successful career journey, extending from local company to remote, now the United States.
 
